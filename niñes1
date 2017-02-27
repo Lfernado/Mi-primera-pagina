@@ -1,0 +1,37 @@
+<html>
+<head> <Title> Niñes </title>
+
+</head>
+<br>  <li> <b> <a href="pagina.html"> inicio </a> </b>  </li> 
+<li> <a href="Mis Gustos.html"> Mis Gustos </a>  </li>
+<li> <a href="prepa.html">  Preparatoria  </a> </li>    
+<li> <a Href="tec.html"> Cuando entre al tec </a>  </li>
+
+<BODY BACKGROUND="fondo3.jpg" >
+
+<body>
+
+
+<H1> <u> <p align=center>   Les Hablare de mi niñes  
+<br> <img src="bebe.jpg" alt="una foto mia de bebe" width="180" height="200"/>  </br> 
+<audio  src="niñes.mp3" controls> </audio> 
+</p>
+</u>
+</H1>
+
+<h3> <b> <p>
+Imagino que es muy incre&#xED;ble pero <u> &#x22;el bebe de la foto soy yo&#x22;</u>, as&#xED; es yo durante mi primer a&#xF1;o 
+de vida fui blanco como la leche, seg&#xFA;n mi madre, abuela y familia en general, fui un bebe bonito no
+fui llor&#xF3;n, ni mal portado, pero ten&#xED;a la gracia que cuando ped&#xED;a leche &#x22;machas y pues me dec&#xED;an no hay  
+y yo dec&#xED;a a meno y tiraba el biber&#xF3;n lo m&#xE1;s fuerte que pod&#xED;a para donde fuera y se la llevaban juntado
+los biberones detr&#xE1;s de los muebles las camas y dem&#xE1;s, seg&#xFA;n mi familia me tomaba 2 litros de leche
+diario y eso me parece curioso porque hoy en d&#xED;a no puedo tomar nada de leche por el hecho que me cae
+muy mal, en fin para que no digan les mostrare otra foto m&#xED;a de cuando ten&#xED;a 2 a&#xF1;os <img src="2años.jpg" alt="una foto mia 2 años" width="130" height="150"/> 
+</p> </b> </h3> 
+
+
+
+
+
+</body>
+</html>
