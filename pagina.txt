@@ -1,0 +1,49 @@
+
+<Html>
+<Head>
+
+
+<Title> Mi Historia </title>
+</Head>
+
+ <BODY BACKGROUND="./fondos/fondo.jpg" vlink="white">
+
+
+<font color="white">
+ <H1><p align=center>   Les Hablare de mi vida
+<br> <img src="yo.jpg" alt="una foto mia" width="180" height="200"/>  </br> 
+<audio  src="cellos.mp3" controls> </audio> 
+ </H1>
+<b>
+<p> Hola soy Luis Fernando Ruiz Castillo, actual mente tengo 21 años soy estudiante del ITLM de 
+Los Mochis Sinaloa, soy una persona normal a la que real mente le pasan cosas muy raras para empesar
+me han atropellado 3 veces e intentado asaltar 2 veces y no muy orgulloso e tenido unas cuantas 
+peleas callegeras a lo largo de mi corta vida, resumiendo soy una persona normal con muy mala suerte
+si te interesa saver mas de mi vida te contare algunas cosas sobre mi 
+</p>
+</b>   
+
+</p>
+
+<H3> <P ALIGN=center><font color="white"> &#191;Te interesa saber m&#xE1;s   de m&#237;  &#63;&#8218; puedes escogere a
+bajo 
+</font color="white">
+</P ALIGN=center> </H3>
+<H4>
+</P ALIGN=center>
+<P>
+<center>
+<br> <li> <a href="Mis Gustos.html"> Mis Gustos </a>  </li>                                            
+<li> <a href="niñes.html"> Niñes hasta la secundaria </a> </li>   
+<li> <a href="prepa.html">  Preparatoria  </a> </li>                   
+<li> <a Href="tec.html"> Cuando entre al tec </a>  </li>
+</center>
+                 
+</br>
+</P>
+
+</H4>
+</font>
+</body>
+
+</Html>

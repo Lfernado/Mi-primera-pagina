@@ -1,0 +1,67 @@
+<<html>
+<head> <Title> Niñes </title>
+
+</head>
+<br>  <li> <b> <a href="pagina.html"> inicio </a> </b>  </li> 
+<li> <a href="Mis Gustos.html"> Mis Gustos </a>  </li>
+<li> <a href="prepa.html">  Preparatoria  </a> </li>    
+<li> <a Href="tec.html"> Cuando entre al tec </a>  </li>
+
+<BODY BACKGROUND="./fondos/fondo3.jpg" >
+
+<body>
+
+
+<H1> <u> <p align=center>   Les Hablare de mi niñes  
+<br> <img src="./niñes/bebe.jpg" alt="una foto mia de bebe" width="180" height="200"/>  </br> 
+<audio  src="./musica/niñes.mp3" controls> </audio> 
+</p>
+</u>
+</H1>
+
+<h3> <b> <p>
+Imagino que es muy incre&#xED;ble pero <u> &#x22;el bebe de la foto soy yo&#x22;</u>, as&#xED; es yo durante mi primer a&#xF1;o 
+de vida fui blanco como la leche, seg&#xFA;n mi madre, abuela y familia en general, fui un bebe bonito no
+fui llor&#xF3;n, ni mal portado, pero ten&#xED;a la gracia que cuando ped&#xED;a leche &#x22;machas y pues me dec&#xED;an no hay  
+y yo dec&#xED;a a meno y tiraba el biber&#xF3;n lo m&#xE1;s fuerte que pod&#xED;a para donde fuera y se la llevaban juntado
+los biberones detr&#xE1;s de los muebles las camas y dem&#xE1;s, seg&#xFA;n mi familia me tomaba 2 litros de leche
+diario y eso me parece curioso porque hoy en d&#xED;a no puedo tomar nada de leche por el hecho que me cae
+muy mal, en fin para que no digan les mostrare otra foto m&#xED;a de cuando ten&#xED;a 2 a&#xF1;os <img src="./niñes/2años.jpg" alt="una foto mia 2 años" width="130" height="150"/> 
+</p> </b> </h3> 
+
+
+<br> <b> <p>
+Yo desde pequeño fui un niño alegre y pues simpre e sido gordito del kinder tengo pocor recuedos y fotos no alle del kinder ni 
+de la primaria ni mi mamá tiene ide de donde quedaron dichas foto, pues bueno uno de los pocos recuerdos que tengo del kinder 
+es que mi madre trabajaba y estaba des temprano a la tarde, en el quinder hacian comidas para todos y pues yo no como zanahorias
+literal mente vomito al comerlas, no me creian y me frozaron a comerlas y despues de ese dia no me forzaron a comerlas denuevo 
+otro de mis recuerdos es que estaba jugando y me clave la punta del lapíz en la mano, puesto que mi madre trabajaba mi abuela fue
+a recojerger y mi trauma de ese recuerdo es que mi abuela apesar de que me quiere mucho, ella me saco la punta del lapíz con una
+aguja de cocer, se podran imaginar cuanto llore y suplique pero mi abuela decia sea hombrecito ya falta poco, y pues nimodo yo 
+segui llorando y patalendo, hasta la fecha sigo crellendo que tengo un pedazo bajo la piel. </br>
+
+<h3> Primaria </h3>
+ Cuando entre a la primaria surgieron muchos problemas puesto que era inteligente yo no hacia trabajos ni nada de lo que me 
+ped&#xED;an o mandaban a hacer y sal&#xED; con un promedio incre&#xED;ble mente bajo para primer a&#xF1;o de primaria y me hicieron pruebas y dem&#xE1;s 
+y sali&#xF3; que tengo un problema de aprendizaje no muy grande pero lo tengo, en el sentido que si algo no me parece divertido o 
+interesante lo ignoro, pero que lo ignore no quiere decir que no lo aprenda y al hacerme ex&#xE1;menes orales sali&#xF3; que si sabia 
+lo que tenia que saber, pero dicho eso mi madre no quiso y le pidi&#xF3; al director que me hiciera repetir a&#xF1;os como castillo o algo as&#xED;
+y despu&#xE9;s de eso un tiempo fui el hazmerreir de la primaria por ser el ni&#xF1;o que reprob&#xF3; primero pero despu&#xE9;s de eso solo obtuve 
+buenas notas ya que no quer&#xED;a volver a reprobar y la final sal&#xED; de la primaria en el top 10 de los mejores promedios. 
+<br>
+ <h4> Secundaria </h4>  
+    
+
+La verdad mi primer a&#xF1;o de secundaria fue terrible, yo pues siempre fui muy bueno y educado por que mis padres son cabrones en ese 
+sentido y  por ese echo me molestaban mucho me ofend&#xED;a me golpeaban y dem&#xE1;s, era la torta y as&#xED; fue por unos 6 meses hasta que un d&#xED;a 
+me enoje mucho dem&#xE1;s de repente se me nublo la vista y cuando regrese en mi 3 de los tipos que siempre me molestaban estaban en el
+piso llorando seg&#xFA;n lo que me dijeron fue que les empec&#xE9; a tirar golpes a los tres y que realmente los golpee bastante e incluso en el
+piso los patee y a mi me dol&#xED;an las manos pero hasta la fecha no recuerdo haberlos echo nada, pero fue para bien porque desde ese d&#xED;a 
+ya nadie me molesto ni dijo nada de nada adelante todo fue mejor jugaba fut boll dec&#xED;a tonter&#xED;as y dem&#xE1;s pienso que fue la mejor etapa
+que e vivido 
+</p>
+ 
+<center> <img src="./secundaria/secundaria2.jpg" alt="primero de secundaria" width="380" height="280"/> <img src="./secundaria/13años.jpg" alt="segundo de secundaria" width="380" height="280"/> <img src="./secundaria/secuundaria.jpg" alt="primero de secundaria" width="380" height="280"/> </center>
+
+</body>
+</html>
