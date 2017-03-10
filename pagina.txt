@@ -11,8 +11,8 @@
 
 <font color="white">
  <H1><p align=center>   Les Hablare de mi vida
-<br> <img src="yo.jpg" alt="una foto mia" width="180" height="200"/>  </br> 
-<audio  src="cellos.mp3" controls> </audio> 
+<br> <img src="./reciente/yo.jpg" alt="una foto mia" width="180" height="200"/>  </br> 
+<audio  src="./musica/cellos.mp3" controls> </audio> 
  </H1>
 <b>
 <p> Hola soy Luis Fernando Ruiz Castillo, actual mente tengo 21 años soy estudiante del ITLM de 

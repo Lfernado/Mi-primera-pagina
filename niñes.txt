@@ -2,15 +2,16 @@
 <head> <Title> Niñes </title>
 
 </head>
+
+
+<BODY BACKGROUND="./fondos/fondo.jpg" vlink="white" >
+
 <br>  <li> <b> <a href="pagina.html"> inicio </a> </b>  </li> 
 <li> <a href="Mis Gustos.html"> Mis Gustos </a>  </li>
 <li> <a href="prepa.html">  Preparatoria  </a> </li>    
 <li> <a Href="tec.html"> Cuando entre al tec </a>  </li>
 
-<BODY BACKGROUND="./fondos/fondo3.jpg" >
-
-<body>
-
+<font color="white">
 
 <H1> <u> <p align=center>   Les Hablare de mi niñes  
 <br> <img src="./niñes/bebe.jpg" alt="una foto mia de bebe" width="180" height="200"/>  </br> 
@@ -63,5 +64,6 @@ que e vivido
  
 <center> <img src="./secundaria/secundaria2.jpg" alt="primero de secundaria" width="380" height="280"/> <img src="./secundaria/13años.jpg" alt="segundo de secundaria" width="380" height="280"/> <img src="./secundaria/secuundaria.jpg" alt="primero de secundaria" width="380" height="280"/> </center>
 
+</font> 
 </body>
 </html>
